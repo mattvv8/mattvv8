@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rigagarim@gmail.com">
+  <a href="mailto:eectro1111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rigagarim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/zchrvv">
+  <a href="https://t.me/saffrtm">
     <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
@@ -93,6 +93,6 @@ Current direction: production-oriented ETL patterns, reliable SQL/Python code, A
 
 ## Contact
 
-- Telegram: [@zchrvv](https://t.me/zchrvv)
+- Telegram: [@saffrtm](https://t.me/saffrtm)
 - GitHub: [mattvv8](https://github.com/mattvv8)
-- Gmail: [rigagarim@gmail.com](mailto:rigagarim@gmail.com)
+- Gmail: [eectro1111@gmail.com](mailto:eectro1111@gmail.com)
